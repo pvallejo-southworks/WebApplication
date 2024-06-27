@@ -1,0 +1,7 @@
+C:\Users\PedroVallejo\Desktop\HelloWorld\HelloWorld\obj\Release\net8.0\PubTmp\Out\HelloWorld.exe
+C:\Users\PedroVallejo\Desktop\HelloWorld\HelloWorld\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\PedroVallejo\Desktop\HelloWorld\HelloWorld\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\PedroVallejo\Desktop\HelloWorld\HelloWorld\obj\Release\net8.0\PubTmp\Out\HelloWorld.dll
+C:\Users\PedroVallejo\Desktop\HelloWorld\HelloWorld\obj\Release\net8.0\PubTmp\Out\HelloWorld.deps.json
+C:\Users\PedroVallejo\Desktop\HelloWorld\HelloWorld\obj\Release\net8.0\PubTmp\Out\HelloWorld.runtimeconfig.json
+C:\Users\PedroVallejo\Desktop\HelloWorld\HelloWorld\obj\Release\net8.0\PubTmp\Out\HelloWorld.pdb
